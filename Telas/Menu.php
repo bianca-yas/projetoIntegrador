@@ -61,9 +61,21 @@
                     </button>
             </div>
     <main>
-                <div class="oferecemos">
-                    <h3>OFERECEMOS</h3>
 
+                <h3>OFERECEMOS</h3>
+                <div class="oferecemos">
+
+                    <div class="bola">
+                        <figure><img src="css/image/pincel.png" width="60" height="60"></figure>
+                    </div><br>
+
+                    <div class="bola">
+                        <figure><img src="css/image/piercing.png" width="60" height="60"></figure>
+                    </div><br>
+
+                    <div class="bola">
+                        <figure><img src="css/image/casa.png" width="60" height="60"><figure>
+                    </div><br>
                 </div>
     </main>
     <script src="mobile-navbar.js"></script>
@@ -111,4 +123,29 @@
                     </ul>
                 </div>
             </div>
-        </section> -->
+        </section> 
+    
+    
+    <article>
+                        <p><strong>Designs Diversos</strong><br>
+                            Temos designs para todos os gostos, artísticos,
+                            coloridos, etc.
+                        </p>
+                    </article>
+    
+                    <article>
+                        <p><strong>Body Piercing</strong><br>
+                            Fazemos também body piercing em qualquer 
+                            lugar do corpo.
+                        </p>
+                    </article>
+
+
+                    <article>
+                        <p><strong>Conforto e Segurança</strong><br>
+                            Oferecemos segurança a nossos clientes e um 
+                            ambiente comfortável.
+                        </p>
+                    </article>
+    
+    -->
