@@ -15,11 +15,20 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-        h3{
+        h2{
             font-weight: 800;
             color: black;
             letter-spacing: 3px;
             opacity: 80%;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        h5{
+            font-weight: 500;
+            color: black;
+            opacity: 80%;
+            text-align: center;
         }
     </style>
   </head>
@@ -62,20 +71,36 @@
             </div>
     <main>
 
-                <h3>OFERECEMOS</h3>
+                <h2>OFERECEMOS</h2>
                 <div class="oferecemos">
-
                     <div class="bola">
-                        <figure><img src="css/image/pincel.png" width="60" height="60"></figure>
+                        <figure><img src="css/image/pincel.png" width="80" height="80"></figure>
                     </div><br>
 
-                    <div class="bola">
-                        <figure><img src="css/image/piercing.png" width="60" height="60"></figure>
-                    </div><br>
+
 
                     <div class="bola">
-                        <figure><img src="css/image/casa.png" width="60" height="60"><figure>
+                        <figure><img src="css/image/piercing.png" width="80" height="80"></figure>
                     </div><br>
+
+
+                    <div class="bola">
+                        <figure><img src="css/image/casa.png" width="80" height="80"><figure>
+                    </div><br>
+
+
+
+                </div>
+
+
+                <h2>SOBRE</h2>
+                <div class="sobre">
+                    <div class="fotos">
+                        <figure class="001">
+                            <img src="css/image/gibi.png" width="600" height="400">
+                            <img src="css/image/001.png" width="600" height="400">
+                        </figure>
+                    </div>
                 </div>
     </main>
     <script src="mobile-navbar.js"></script>
