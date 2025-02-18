@@ -1,0 +1,61 @@
+#conteudo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: auto;
+    flex-wrap: wrap; /*Quando um dos flex itens atinge o limite do conteúdo, o último otem passa para a linha de baixo*/
+    gap: 50px;
+    margin-bottom: 200px;
+}
+
+.agendar{
+    height: 300px;
+    margin-top: 200px;
+}
+
+
+.cliente{
+    text-align: center;
+    background-color: #59C2BB;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+button{
+    background-color: black;
+    border-color: #59C2BB;
+    border-radius: 20px;
+    color: #59C2BB;
+    width: 200px;
+}
+
+.administrador{
+    height: 300px;
+    margin-top: 200px;
+}
+
+.cliente2{
+    text-align: center;
+    background-color: #59C2BB;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+figure{
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 8px;
+}
+
+h3{
+    font-weight: 700;
+    text-align: center;
+}
+
+.adlogo{
+    padding-top: 15px;
+    padding-left: 10px;
+    
+}
